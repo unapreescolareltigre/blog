@@ -1,0 +1,20 @@
+asignatura	id_eval	tipo_eval	f_eval
+50	Trabajo	trabajo	NA
+51	Trabajo	trabajo	NA
+52	Trabajo	trabajo	NA
+53	Trabajo	trabajo	NA
+54	Trabajo	trabajo	NA
+55	Tr1,Tr2,Tr3,Tr4,Tr5,Tr6,Tr7	trabajo,trabajo,trabajo,trabajo,trabajo,trabajo,trabajo	NA,NA,NA,NA,NA,NA,NA
+56	Tr1,Tr2	trabajo,trabajo	NA,NA
+57	Trabajo	trabajo	NA
+58	1Int,2Int,Trabajo	prueba,prueba,trabajo	2017-03-18 00:00:00,2017-04-29 00:00:00,NA
+59	Tr1,Tr2,Tr3	trabajo,trabajo,trabajo	NA,NA,NA
+60	Trabajo	trabajo	NA
+61	Tr1,Tr2,Tr3,Tr4	trabajo,trabajo,trabajo,trabajo	NA,NA,NA,NA
+62	Tr1,Tr2,Tr3,Tr4	trabajo,trabajo,trabajo,trabajo	NA,NA,NA,NA
+63	Tr1,Tr2,Tr3,Tr4	trabajo,trabajo,trabajo,trabajo	NA,NA,NA,NA
+64	Tr1,Tr2,Tr3,Tr4	trabajo,trabajo,trabajo,trabajo	NA,NA,NA,NA
+559	1Int,2Int,Trabajo	prueba,prueba,trabajo	2017-04-22 00:00:00,2017-05-20 00:00:00,NA
+560	1Int,2Int	prueba,prueba	2017-03-25 00:00:00,2017-05-06 00:00:00
+562	Trabajo	trabajo	NA
+564	Trabajo	trabajo	NA
